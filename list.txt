@@ -1,0 +1,1808 @@
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a562d02d7c568fcff808364b4e9adab5.jpg
+Found following objects:
+watch
+ logits: tensor([0.6272])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a9789ebba82857c54345e95b0f1a5694.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6307])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/411f9076f8cd3106153147b5f072b467.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6030])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4aba04560b6a2bf126c128be1fc4a417.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6100])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/bbcdfd6a6f2cb4479c65e1eedc025b18.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6413])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b3c250240275794c80c63ea734ae7845.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6864])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/614fe2468892116277b38458b7b94062.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6549])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1cfd4183faea0843fb7be3e3c106c943.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6262])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f1aba86c1e48a3b1a4bc5e599f7024bf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6279])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9d5e4780260cf2955e3e0e783cb21247.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6032])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5ab5b4a0784effa76e9befb2bf41c179.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6218])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c0901ea10a72665f35e0a44da7cd05fa.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6714])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/91b9b78d128f6c53e2577620f585a677.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6070])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fbaac5a450479e6a19be1877f4b7f092.jpg
+Found following objects:
+watch
+ logits: tensor([0.6098])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/bffd8a9b8bbc1e2fb0cbbd03d1733d64.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6160])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d16a2a303e85d9908dd4be10318a220c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6529])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8e45562046834e1cd4eb7d86f42e3dac.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6042])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fb1feb5dbf0038eee9348a3740cef6f9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6052])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/59b00282fd6d4d371f11cc1f0e3e047e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6117])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/44216d85579ed13593238bc6bbcde91f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7792])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/63b6094e083862d617afe313c4aa9f1f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7563])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/55149479b90e4f74cdb4e84b18b2e2fb.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6750])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6d9d3d6ab99f09c25d9c2042b303d167.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6030])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/32eaca7cb6a5408f4ad5a090187cdb25.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6767])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3a9e8348a8c8673250c009cd940bd082.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6058])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7f5b8a9cc04f8954bbb968f6b85f32c4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6371])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/da81b0441ab66a8c3f55489a0d8a9572.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6077])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d426cd06dab461c27fac4964b9865769.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6562])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1e47962dfdfe1ccaaf34732868a16145.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6261])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/753b9abb38fc058f9f517490ff9bd4c7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7563])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/79e2f2599a1be4f99346af73b2a35ee0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7098])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/bf82b98572753ebeb30643d8cbc267da.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6375])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/435c6dd57e00851f452bbcb24b43f7dc.jpg
+Found following objects:
+watch
+ logits: tensor([0.6459])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/25a9a37f1edef70afe4cbfb380f01224.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6103])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/86665d212e168b26d21f1dc4a8d1f12b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6276])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1db228b878cf9e99681fd881c1d70e3b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7398])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f1b8c67eaa33834ea89a104d3c7f8490.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6494])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c1624edf0d27fe609cdec6d8793b0e77.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6998])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/64ba283eeed948b9af16855140ee78f6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6796])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3a99a5259471f5fee1d4db0d2067b413.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6522])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/99bc9a0acede1db1fa1a584cb8a4964a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7148])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/96fec92b4635d407429bf99b37b56b50.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7365])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e9161fe41230fc27334f0a404a13f211.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7194])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b1b9ba6988d24ae71f03cfd606809f23.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7979])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/10cbe527905d61220233b3b00e5566ee.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6810])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7dd8e927e493ab01ab17a13492ed3f12.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7039])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/16e80f17ef11a756637bf2cf8ef28737.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6002])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5512481841ce893577f1bc1080350cff.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6189])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6853bfe649cc69edb3f8dc92db3dc10e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6187])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2e9026dc8e4b4256aaad236b808de767.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6033])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/98af0d36e19e7241678909a61d1d2fd7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6320])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c652772dd70d369fefb99a7a8ab31b53.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6332])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/618488070f43e0fd8e4133076cd15ab5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6236])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6232e9e0d448b950b9adac2b83a05710.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6413])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e4590bf7630871cf82454a90833a1c79.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6301])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6298691ad6f0822ab25a9d163e274b40.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6206])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2fdf3a80febe2b3798042234bfc2dec5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6222])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3463d25c4b8bc5061a3faa4ca6715537.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6115])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/97daccbe6d587b298b2949cf1b0a3f21.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6604])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7636fd288d747eed55bf7c82cf97cd06.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6673])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/607a198d567608b557f782ab3381cddb.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6278])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/71a893ec119b26b689459b8e236276c0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6353])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/43a5a3a84961dffd74413ae75d06532c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6023])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/90a57906ad3e8c8d1583a661e616a1b0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6452])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c480d04a59d640c9bcb1379236cc4c0f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6642])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/145e13a479f0c026fcb0630d2f9d47b8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6547])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d6bf6b90ebc94bae2cc529263b6a14ad.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6698])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/00742b7d36ec4038d68e4956deb8fa83.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6219])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/72f62bfc9dc7ce48b315ec3da1b4a0b4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8638])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/eeb17db24a41dbaeab9cf8ebc9507e86.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6027])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/414d1baaee908089a3c09143507d5fd8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6276])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/62def66062d6648a61d4003c4b8ddfd2.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6386])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4d6a5c8b2e73ea8acbcbae17a070f9df.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6091])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/045b1d751bdafb3c8126c61c5caf270d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7850])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ab6fc36069c77764cbadd6a5a4fe3281.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6019])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4094556d382c6873c3f4f873fceeccb9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6510])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8f5ed7a6b36ec4af8b84635c0d5291ec.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6334])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0f9899775f4ce2efa31ae2704361db38.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6433])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8c39f641d7cc2d5df257143a854b28ad.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6009])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b50a802b6d5e458e6d6e446b6cee35d9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6096])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/36f15fdcab127921c68e23e5952b579a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6202])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c194978ce025c8b827df395ea10ae20e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6404])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/76a5da87f72f5712243ff4bcf52337b6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6567])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/13c8455096abc7427eeba56c81c7a54c.jpg
+Found following objects:
+watch
+ logits: tensor([0.6373])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/da485a6bcf6b3e6564ef5f014ecb1785.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6080])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e0212a4120b4c576d7cfd63d4829b2cb.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6250])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/158b0e4832f254123abef07ef0c6b014.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6102])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f5d4119aa4334fce797396a081e0686d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6133])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d5b3b90897f255f97ac19c06585a948c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6079])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/00d5f0c643a2c4317c33bcfcc7b56759.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6152])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e7cb49cd64f7e1e622afda4938e3b584.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6155])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9b7edd4e98f898fe5b5d4adaaa5c264d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6420])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4b4dbba61edbda8a8d68e7c66c55414f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6245])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9a0d07c6fb153412607c195bb552f132.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7046])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f738a3210d3c0638ba1acfafb7f3b7dd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6089])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/db450c02e0acb737fc2ea0a11be525c7.jpg
+Found following objects:
+watch
+ logits: tensor([0.6440])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7468d62b08cd2e5dd9433527bfe0143e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6563])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c4157b7a885695ebb5670c69ff5759b6.jpg
+Found following objects:
+watch
+ logits: tensor([0.6584])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a50b0037bf32e070914a5740f8db7a8b.jpg
+Found following objects:
+watch
+ logits: tensor([0.6071])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5df724c6d38885cf245b8413cffab3f7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6377])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/12056f489798de5eb80a7d07dde875df.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7219])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/88e49623b7d05cee8a59abc21d4a2aac.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6739])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/31a8db3e9da7907512beaa575d638be4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6497])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/52b866609ea7bcfacac4ffa0fa943b7a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6623])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f57fd61023be3702826117b7d73faa79.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6173])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4442aec61aba4663d4810c0786ed86c8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6011])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/208ee7e29b58510ccc66af2e7db1f360.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7337])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/886672e3a94aca6d2ba3f8196611eabc.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6660])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5add954298359b4281d027a5e03e2bd6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6047])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ee9728f1e771a1922abe13af66282b41.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6051])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d90733d09cdec4e45ae22e1202a3fe41.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6586])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e4f7ad417e492ef7955e1b31b6be3cdd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6307])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/306991d08929be5a1c9cad3ecc9423bf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6181])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/79c7a632ac4176aa5f1577a459b98ece.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6547])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b12942fe22a3ec7bf64c0a4d58776551.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6140])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6d27b2cefd23115cb0b2f5ccd2030f87.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7042])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/de49050472666ae8573048c5d768c8b7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6084])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c3a7fe65560cc968c6b10da456d45c52.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6424])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/21f1e3ac8e545e1c28ac3d619360d6cd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6666])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/39c8ef268c03ea7e728bb4f44032ddf2.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6178])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9dce2a5d033bd09d11fb075a1102a91b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6197])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6eb241282698d3a3b24f8a5427f1bbbf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6704])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c04c5f3afa749fb75019acfe5f243877.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6825])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/20b3c235b9af196c17c0a0c67c8516b0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7157])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fea934c879b17f313d3215f548950481.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6159])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c62264223e918cf7f7c504276ba40671.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6651])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2a15701b156ba62885e84dcc3f8ea910.jpg
+Found following objects:
+watch
+ logits: tensor([0.6229])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0ee34d8cc387db6430bba2d2ce793ac9.jpg
+Found following objects:
+watch
+ logits: tensor([0.6008])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1f44599103695a126e5bb6496ba52cb7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6650])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/df7a29a21bbad544068a9a45fb340893.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6057])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1075ebb39a95d6ac67ac900177f70357.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6695])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a1e449b44f6ebc2eb9087f3aa6ba8136.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6653])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/dee91df31211c000479ccabce17807b9.jpg
+Found following objects:
+watch
+ logits: tensor([0.6036])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8a539794b96a6bf2b5ae4d1f53d3faa5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6045])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ed277f414662d8203eeb4a5ddbd58644.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6886])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/18848f2fd60a8534d91b20b6da849c53.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6152])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/efa95d6b48cc71f53d5346ff3dc2968f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6767])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2d937eacdf1f2480a9266e029a667494.jpg
+Found following objects:
+watch
+ logits: tensor([0.6115])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/213936e7901e7fa1bae80d3df0c4e4c7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6551])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f2a275f5f8fe396644e1601abfe356f9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6160])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c750ae181c65977cec04dae156881b42.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6191])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3d921ce5a4bb73bebf7f3200257a74c4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6266])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0e72ba059329555ffcfe32d627a15b7a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6989])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a1d0d8b10e5a4a729c2a6c3fa580521a.jpg
+Found following objects:
+watch
+ logits: tensor([0.6533])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c1cde759eca19dd8fbe3884a352ba3c1.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6012])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6e1984f562128aeecc2e88316623fd77.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6841])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9ce3c69f96b4a44009e8f953aa221cf6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6268])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0c9a63866e446cb601bdeb9a4d3787a6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6338])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/153ccb1a4f539ab26615f322caefac10.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7303])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f0c14116d7d5ee9c29a43d1ad073ec0f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6505])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/69b7311e2ef3c1c7971021466106b246.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6601])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fdda53ce89d314229c5088ae449be8ee.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6342])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6ba4d97062cca79a3754b550f7f2efba.jpg
+Found following objects:
+watch
+ logits: tensor([0.6034])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2452334ab72ff3c4f992619d45780ea4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6831])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/69243b5e8ba06521744d03b52439eba0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6781])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b71c0b85580e06b347da7e16d1aff3ff.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6001])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d18c7682d14d03b077b1e352e900c97b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6914])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8902bc05554d3ff316575246688a5286.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7353])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/375d442424a9d97c9eb00d4717602897.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6130])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/dc6b70e34949c1fa255c0c936fc53655.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6488])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2108e9d766f1c6ed6ad83765f576d347.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7397])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/cbce0a9f9ef16752dc6ac47637b0748f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6347])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/90749d71571a4caae55cb226918d68c9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6210])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3f51e93925f09e7f150cfbc9714abd9c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6028])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/bc3500ccd85dc7cb5187a997ceaa6013.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7317])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/12d3b726b887e9bc6a97bc2ca72fb0ac.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6024])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3d432adbde4445535a0d38ea18cf71ef.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6327])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/691e993248f5ba98fc7be6bede8dc9ac.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7344])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fa866bb459eb719101f756a3b6244ca4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6634])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/55e268bf2641c7ceeadd9f43ceb55f29.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6193])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/77573a3b26f820e4c9a4cce7608d1d77.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6558])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c7d17ac1386b6ba57646a4bce3c80c0f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7904])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d653edb6aa702f095a9b00550738a821.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6358])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4874ae4360510673a0cbe6310a4acce0.jpg
+Found following objects:
+watch
+ logits: tensor([0.6058])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d10b1536c16c8dae1abf7a51c48c4fc9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8061])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3e31ac6eb572d47fa7dcf890d6c16dc6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6022])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a9b8d91729eee474193f0ffe3fbfb9c8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7659])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c8a6962325692dfdd5db9428d46bfdb0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6182])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6c83bef6f525b8734ecdbd9dd5f0e822.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6305])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3b4333ce8e3c7622b7282784b99b8bd7.jpg
+Found following objects:
+watch
+ logits: tensor([0.6032])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2cd9e868bed17ffb8c6b118d91c441c7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6748])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/49e78ef5bd9ddef0106c09c86916f245.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6309])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7e0b3d4f2a678d812e94c1f77f9820fa.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6333])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2d88a3fa67aa761b65e280c2e14c68c3.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6988])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/049a8b6765db34d6a05257c1fa2a275f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6374])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ce123c8a38d3da4112480b175c948142.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6005])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/883f86d67408c70ab89b9c54a3118cd4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6614])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ec61f2a80eb538e8a65683ed35a325b0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6263])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0d4c5e2266a00cd127cd5a676ac872b5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6705])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f3fd93d48f9b56eb3f739b76bfa34963.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6013])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6959d7c3d12b67da344cf59ba8c11f22.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6213])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/32f9baf164c8c1ced611cba6def3b2d8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6628])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ce926e8153b5920e1529b6b11c5c3e86.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6788])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/43a4b56ad73ed20ddb1d5936ec77bde8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6230])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a2ec8926634557d70aa984c446b774b1.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6197])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ada2d6dd572e1d3d1d9cd414df50cf96.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6007])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6dba48622336596a9576d587ce702142.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6155])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3e53c31b7ed75b74dd1fc69ea47b6ea9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6055])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2c74321d5e74fddb13c2d77b64cbe9b2.jpg
+Found following objects:
+watch
+ logits: tensor([0.7603])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6040cdfd051a5e48f578a00142817ba2.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6481])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1c444f036ad09acca39209e85c0a8dec.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6753])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d488137e7977288d23f2b3eaf415c5b1.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6430])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6b88b2ba13040fd00a31046b5e4a35be.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6001])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/10ed2d0e269bb1a60f466fef6cdf367b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6655])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8824a77597e15d28293ea83e190ce68f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6377])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8b9207f1125612191d2a54ceb68619dd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6087])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/95c5799418105a41e8779592a8ba87ba.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6219])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c47d15705664fe89f0579d4f23de33b9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6875])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c6a9be15246f408c883b625dc7bc5662.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6295])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3eac623ea306c5c93bca78712a80d88b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6690])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3b1ee7a7fee0c7a7fa2a8df126482542.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6957])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6c77393c64cd6e7c458bcc3d9dfa18a5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6812])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c8e35e39c4662af6d64bb1d937ab048b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6083])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ee66b882c6b13c71daaaa7141969b0cc.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6870])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/688ac2ba9aff76f589c14be2813f9d5f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7406])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1c5adfdbc1c9bda0bc57c328a0ed4b35.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7338])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6204b523ebb98d6511aaad0f095c13ca.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7721])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1a3485252a20ba5b11e3958881f21b4e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7204])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8f3886d15b8f8e2ffb61d73c5802c113.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6123])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/82c7173ab4927d071fb7a749f8ae2a5f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8549])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/06f65d8dde6dde8c772966689a06ad66.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6553])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/467b2ac03723ec804ecb709da4a5bb16.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6331])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b716eb8ad19b3839a5c0104c5f3419e5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6239])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/70758a12b61186edea167fbcf51c7598.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6310])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/17beac6823fd7ec2303d5b030a536fca.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6250])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e4e34b900d74574638f5b57b533e9333.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7155])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/786891098d43f04f9f2370bb7c614321.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6209])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9a309ec1b5a7623e1064399137b0edee.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6337])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e67b930ae640f110d216563f46404c06.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6499])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/64758634e47d4583b6b2c2e46469fee5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6153])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9695951a2cb28eb40557aa22e201b9c4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7549])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3e60a79f63ff990e70c1188d9c970360.jpg
+Found following objects:
+watch
+ logits: tensor([0.6071])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/879a89df97337da67a64ef5771537607.jpg
+Found following objects:
+watch
+ logits: tensor([0.6147])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/89fac5f4cd1f6d2a181337f8b2b30752.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6487])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/600410cdc0fcd7be30fbf4f51f92b7cf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7410])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a4158b66a1435b2882c4075faa163c45.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6086])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5135dffa4beff7723c875860c0c2d3da.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6232])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4ccb6a341928c32e6bdba870cdf57e25.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6021])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/021b92696d34d7cac5a20029e4b58584.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6278])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/875d5de50f024ffdceed2c3f2b039214.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8112])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/bcb7326b02e64d66b66f7f8b503c4250.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7069])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/72cbe38c60606f22142a99815a5a7bc6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6105])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6b4a5e8c12cf5cb1d7767d87394921ef.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6831])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ee55ddd3005fc2d998337343c5da8be5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6631])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b53a5cc389f78ded1e73df82aeae505c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6110])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5996d25125933179e1ecea64715deb45.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6100])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4bae18a5cf6f2f211389b5d97f3fe840.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7101])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2b2eaefc894ecc71d0b0a13afef1ad9b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7025])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ca75ffdc7e72a05c15b58b6763d00950.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6319])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/96bec8fd4da31a9d4121ca5d0b98c0f3.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6361])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fc81b32afc618847af57d0f68c05f0a6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7085])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c996308d0e96ee68ce1353c7a4810a31.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7275])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9cf66703d581a5ac6709c3a093bfb368.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7213])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e7fd792efe793efba7a339d3dd29e404.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6335])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/713057e92d074a42877ca7c50c7816ad.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6436])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ca3c8642d5b38cec4486a4464d752b62.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6855])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/81c007db8cc1bc57cb08bcc00dda653b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6216])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fc6e05f39ad27f0d3717f4fb51e607ef.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6198])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a58fdf7caed5065862cc7a1045ac35dd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6131])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3fe39fb0cdde5bb5ff0d0c6a70b6e3da.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6186])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b1c539dfccb80e6a29a706711b0daa98.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6530])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2b7997290f5080c552bd7a9041ca3141.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6356])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b53ec636f5f8e7b11071d5159d127da0.jpg
+Found following objects:
+watch
+ logits: tensor([0.6116])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/84d8616020e202285cb4b5505d18541b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6516])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b935d5f370685fbfdfb676b492dd5deb.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6364])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b0b1a536f39abb373d3138d49e809fd9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6101])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6554ab2020d7c6844dd0ddb3afbbfeed.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6462])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/44ab470249555e7936c6bf6f196f0292.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6246])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4c57a9eec4b544ae4dae4a56a6d9f8cf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6641])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fd290d16122769606f90056313b37078.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6334])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/13aeee2d0e9c61d9d86714c96f9dbd0c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6062])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f46a3de0be162ee4e28da54d299fc48d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6163])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7b11131e99b5e053bf85dfeed5229ab5.jpg
+Found following objects:
+watch
+ logits: tensor([0.6293])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/211872fe4a7d35f67b9293acc6485271.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6124])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/42a4ea1eb2ba38f1e1f88e6de7f862f5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6141])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ef4f1ca88203040e47389f10e59a3228.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6347])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fd4ed381044a6bd3f6173a2d6e88540d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7024])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/95e4e2ee44567f284171a4f368a7aecd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6879])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ea4fc8065f75426210090461c7815045.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6447])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/951300e7c91d96b37e90e00932a7722b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6023])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e2b108ec0b0d9df5ad536cfde4fb543f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6117])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/70b99a1005a08821fd9b9c48d7e8e698.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6041])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8b4cbcc0a52119f8303c15a0717427ff.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6940])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4ebb78e463dd08523ced087cb11b1650.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6877])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9360b4fb151ca5928e9f11a32cf60046.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6757])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9b3d2b7c3148eb06b261fd4f69241201.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6214])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/923534fd044e776e66d0e5fca35e0a1c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6548])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0a89bf3ba5412346ea9a0f0c7e70818d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7053])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/943a5ffcd4da3122732edad290533470.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6596])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/49dd4efde68d177951ec52f076df6335.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6940])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ff376d7fda946563d0b03d6649451d66.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6724])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/67af6e2923e52eff436a013572b7088b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6130])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e8e9c70e1fc03c9f924724b5c8bebae9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7476])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e7ecb18c1a03a96826c0d124744da08f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7025])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/20dade7616104b6f075799d9cdbf46c7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7091])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e28cbb701b1b2ff727c3c7aba01fe6ff.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6507])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/cb163e80bb075dda20d28f7eb1131c8a.jpg
+Found following objects:
+watch
+ logits: tensor([0.6031])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/dff65d3627209e52cbf5f2af52c5f2ef.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6215])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8441e5e11118d0a1f93cf9e74bd45cc9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6310])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/521773286f1d292e0cdcf5c1354fc0ea.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6264])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4671abd39777720a68af5591bd8cbb17.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6450])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6c8b17c2502ade3908f3778a385e4e47.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6328])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/284637a7b1a26bfbec38ce572f3a063b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6106])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a1c1f1ea02cf83d75af5e1fa9c3ade5a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6706])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/cb7f85053730567e1d4f863fb5f1bdc0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6680])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6cf10bfb15d43652310bd5ce509069a9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6040])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5a9232c6394a9919c4c9fb9d4dabbd9d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6104])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5444d551df8e1549d7b1fb51b9a87c2f.jpg
+Found following objects:
+watch
+ logits: tensor([0.6398])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6a6d66922e04f2d7088d5ca208af8238.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6371])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/dc015fe727ae7edab1c022a7ba0cf1bd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6275])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9902aff379c7e84d797c4ea49c697137.jpg
+Found following objects:
+watch
+ logits: tensor([0.6382])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3c2dd586fccdd274cfc512c8ec868123.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6011])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9838b6548e7842a1c228e9548a32099c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7004])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/af3c985f980b54b34337d08ee8b50d0d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7037])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d1e44dae2fef82c7ec509e1cee16590d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6078])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8171656ab84e8f8eb5d6b7c44642f89c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6419])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1400a56e8de2b64427acf3ba96895ded.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7035])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d9ec09dd078d81bd9f7895e190b82f5e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6288])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e750fc17a597bf4ecac3321dba9958af.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7005])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/278f77c0cfc37e499635784af16ea365.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6073])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1ee8bcfc969e60536d3be968cade4e12.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6059])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9ed2f9f8b8e8ef7dce95d40937b9fe37.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6824])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/50229b1b76f93c7205010aa64925118b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6160])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b0731341c7d1145f341ad95a7876bdc9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6706])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f247c2f65828b5a87b9c2c7e1fc13a88.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6031])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/741cf02d5bb563b83cfbb4238207eb1e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6579])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d32bb38989704f645004d6340d501466.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7811])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/24c7a58c0e60303086d0f5f89b121ae4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6476])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/78643b37e30d73f48e28fac2eacf3661.jpg
+Found following objects:
+watch
+ logits: tensor([0.6072])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1323cbd6ca0833ff55b6ecad90dc828b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7156])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2dabcd75a550fda4a489b2b92b0e1f1a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6838])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d8b3dc2a65b4cec451a05d16dba218a1.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6176])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f8625e6ba7ead84d5e9a283df868584d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6524])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4f2198410f19ee761ebc0f9822bd5acf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7514])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/43262c5ed7d5c29f9547e40f5bcac4fd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8490])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/58f8a6ea4d65b0c235565a6f0dab1643.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6624])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/972927afa96d6543749f81f69d196662.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6921])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/90022c24071c11e07fee084bc45d5262.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7078])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fb1ab021788e2478d946e0198b7e2e8e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7001])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0eee4ba7249e41b3a8e09d3d7a2a1632.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6699])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/925ad6d312f71a30cdb5c5e4e773d8a8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8281])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/45f5c6cb12848d9f739532be79f4e8ce.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7053])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d1630be09b8372b9740d7152b415055b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8097])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a3308a1ba83738f6914b390a23c12256.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6244])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/31d5178f1080d39a338b8f278b62b56c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6458])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5e01c679167124fe9b9af10354d084bf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6118])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/92fbc59d8f01e9b17f1b2be5fdbcf097.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6613])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/94d55bd2f59807720ed675dfd24cf9a3.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7175])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f45dc98e818745e359d7d25b00c91151.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6866])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7abf608a83999782a019e76b38498819.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6888])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/68623ff99e2d99707211ae16ac655ebf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6189])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3d2f7ae5b1e2f0da02482d3ecd6869a8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6084])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/074012eb77f3f0d6d3b4c9a0991c3575.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6215])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/66f46297056511b1057d5c31ad7acd23.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6250])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c18ef5d1ddaa5651b201046f079f1607.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6472])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e818a551b15bc2d4d506df50e2ec65fd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7680])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a6cb40a0f3d23424ca15a8f5db6712e7.jpg
+Found following objects:
+watch
+ logits: tensor([0.6198])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c02bd8d61feda28f1cf90efb126b5b1a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6103])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8d5ff52807e2603f38f1b4a82f065a48.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6171])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/59987085d01b140ce512082866095ddd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6214])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ca3594b337dec22d778bf75290adf9ac.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6755])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b76bc541faaa9e3b095afdcf5fd2909b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8190])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4d11c36b249cfebffe516998f9c6db31.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6373])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ffd7f005115373b98a9a19ebae1ee863.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6456])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/aced50eca3b94bc5a21142c87d461e01.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6621])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/43afc50b380e75961cc7fd286d2245c1.jpg
+Found following objects:
+watch
+ logits: tensor([0.6413])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/2742e7737c5151ba99b4b45a4a673cb8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6621])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/59c5fd861d89b4a023e4df0fc57a9b59.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6198])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/68daecb39b330760c4faddc47e842c77.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6041])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d1d7decacddf2cae04a23a7046d49cb3.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6158])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d20132382bce45b25a1551f55fb0a502.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6184])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/935062a8a821a27e6a8c6bd069d45966.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6692])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5ebf2926c88d2a8b5411ae057705a5ac.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6421])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/cfd618bd9e96d0c244f295afaff7a388.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6439])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4eb799199c491b819bf1068cac715d7d.jpg
+Found following objects:
+watch
+ logits: tensor([0.6897])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/afc4bdb0cdefbdb03a1335a89ebe49c6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6029])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/5c81dac7d18a14bfd34a087e0c04195f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6110])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/7fee240e593bc169ff92d5ef2247a630.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6406])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/287ae52124079fd46a7a58e1ab840a27.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6504])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/55ec84888f157069c8d601b229d377f6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6979])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/16732968b8b8bf0e9dc529bb65031adf.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6156])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/02dfbc0e14a4655ca9190705fe1b7d56.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6166])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0aa9487937bd2a75f34355e6886eeaf1.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7014])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c0d87b8dc5b8419b85c8fa07517007fd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6014])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e99959aa9c734497ad3baeeff0a3d082.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6818])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/11a612d364d91616d3ed4a68cc4e49d5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6541])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/658446bde66c64e374d317e40fb40f91.jpg
+Found following objects:
+watch
+ logits: tensor([0.6012])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ebcf2b50dd943c700d4e2b586fcd4425.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6026])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/310c13f3fb5006f4c9a1befc2741b638.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6260])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a036718d77f4a4339b2aaf15e2087fe0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6145])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8c2012b040cd3002296fb71f345262cb.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6443])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b2dcd42e04260dcbd208c41b7b3d69ce.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6499])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ef17650011124f49e46276a96cd95e84.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6613])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/868f958c11b28e37a895cf599fa6004a.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6172])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6275c16eb9167262e83ed41a861da9d7.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6290])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/28afda98cfe6e58e76e1e011b7424f7c.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7403])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/10875c6d5e9d32bbecde83124d90a131.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7248])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/fefa0bd8f7bd9ca0eb50baa22a68ce80.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6167])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/8d7d69353979c66faac2f9e5fbdfe348.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6221])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e87ee141d3a97b3d23869cc080971f4f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6566])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/aa887512db391b7195e1380e0ba58264.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6334])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f21f7b5ec113e2fb4e705e550e918077.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6136])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c127912e9efdc0da2cca4273dadbb4f3.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6502])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/377119a9792a5995497cdd74ab4af3d2.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6645])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e7b64e348cdf955f7910cbd044ddaf31.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6848])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d33000ba378f61a583220a7fc0eade81.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6181])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/914d148a80029bf56971c2dd5a2b96b4.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6309])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a294d1982b705b8d2b2c1e8c1f524eb0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6032])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/4fb37a02a43af27df0dbe3354331047a.jpg
+Found following objects:
+watch
+ logits: tensor([0.6006])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0a5c59128959230b7b3005d277a7c8e6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7473])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a4a41ecfe71f94927ec8c3bcebb5eb80.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6281])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/98280785c17860f879d21525a92af31f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6030])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ca788c4d33fb4bdd7dd9e603916a6616.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6154])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b29caa9fd3efd8880d63636f7bc9a740.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6047])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0aa30d3bb7ba6e84d25f71317a441ec9.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6520])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d3c7eee6e297d259bf3ffa94ff26c315.jpg
+Found following objects:
+watch
+ logits: tensor([0.6029])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f45c9e9dd24903c26f37ae35dfae843b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6239])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/008c8be183aa54af2d29a6f75521ebce.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6711])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/475f92468d27947b2ecda27fbbc1e141.jpg
+Found following objects:
+watch
+ logits: tensor([0.6095])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f5a430b5ac8a21e729a94572007915c0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7793])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/60f79f88cbb999246aea835979d1c1db.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6089])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/f0f7177affb236b9d9cd6931ae949103.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6686])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/ce4c8e9da697d3c54e08dffcf44bb492.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6327])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/00c5083c6fe716b4fc02a814856ec7e8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6378])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/65bca080f82253ea14b5639e230720f3.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6242])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/42a371e91ff71144255dee4978b5a141.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6156])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b7948589620ceb4bdd56002e51d0c0b0.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6153])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/002100fdd81baa28c893ddcde6892e3e.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6393])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a9df130f561e5f8a649e6fd2ecf227f5.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6154])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/e642ea55ce353ec974309c87f4da7373.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6196])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/eede40231585981a795f8da1c0d53ecd.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6567])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/139b06bda340d4dd9b5de96bec4eaad8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6951])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/1f9fe1370af69d7a3b059a99988ea84b.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6858])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6b4632eb4eb9ee5df977ad7fb3548810.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6188])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d6fc0056182f22e51d727af0524ad8df.jpg
+Found following objects:
+watch
+ logits: tensor([0.6346])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3c6f7c12d6772c5f3960277372558357.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7072])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d1e31a0be5400f04814d975c6e6a30b5.jpg
+Found following objects:
+watch
+ logits: tensor([0.6024])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/b62b758e86199928edeb470c25904244.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7032])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/aacfab8570ae32beb4dbb2b744ccb6aa.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7976])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/d26b849fd202c4a414fd81871e516f8f.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6116])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/a18693f7fc1cf91848857da05da1efb6.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7395])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/3f525ad1d8cb9bf4d715de9ff2524ad1.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6252])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/56556910e0dbf4960d3c11d1f1fdef40.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.7260])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/c3402424a6261aec7dcf2573a00d7b50.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6588])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/367ce66759a68a87fca6240f8fc324ce.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6655])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/231488499bc589c8b446af5197cc3478.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6266])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/698875b364a276a917ec097232955dba.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.8184])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/6b174a5db8261270d5620a19f78898c8.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6189])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/0251bbf5552ac8af3f2e6ecfe46ebb96.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6009])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/68c4093d23c19116b586d84b57c348ab.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6339])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/eab4ca887afd28193921e64b0e2b5718.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6583])
+/home/c65jin/artifact_detect/data/Fitzpatric_subset/9171dd88988659b0642ee589c494367d.jpg
+Found following objects:
+jewelry
+ logits: tensor([0.6063])
